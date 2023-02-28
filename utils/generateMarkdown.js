@@ -55,7 +55,7 @@ function generateMarkdown(data) {
 
   If you have any questions please contact me at ${data.email} or if check me out on GitHub at https://github.com/${data.github}
 
-  ## License
+  ## License 
 
   ${licenseBadgeUrl} 
 
