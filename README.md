@@ -61,7 +61,7 @@ The usage for this readme generator is simple, all you do is open the index.js f
 
 ## Questions
 
-If you have any questions please contact me at wagnerolarco@gmail.com or if check me out on GitHub at https://github.com/wagnerona
+If you have any questions please contact me at wagnerolarco@gmail.com or check me out on GitHub at https://github.com/wagnerona
 
 ## License
 
